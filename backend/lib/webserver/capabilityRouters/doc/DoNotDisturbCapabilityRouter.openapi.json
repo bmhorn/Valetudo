@@ -14,7 +14,11 @@
                 "$ref": "#/components/schemas/ValetudoDNDConfiguration"
               },
               "examples": {
+<<<<<<< HEAD
                 "setTimer": {
+=======
+                "getTimer": {
+>>>>>>> docs: openapit example for do not disturb
                   "description": "Get the do not disturb timer configuration",
                   "value": {
                     "enabled": true,
